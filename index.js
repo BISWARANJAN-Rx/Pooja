@@ -11,7 +11,7 @@ function disable(){
 
 
 function animation(){
-    document.getElementById("container").innerHTML +="<h1 class=\"animation\">A B C D &nbsp E E E E E E &nbsp H H H H H H H</h1>";
+    document.getElementById("container").innerHTML +="<h1 class=\"animation\">P R A G Y A N &nbspP A R A M I T A &nbspN A Y A K</h1>";
     var spanText = function spanText(text) {
         var string = text.innerText;
         var spaned = '';
