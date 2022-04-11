@@ -209,8 +209,8 @@ h1 span {
 }
 
 
-
 .friendship:hover {
     transform: translateX(40px) translateY(20px);
     color: rgb(47, 255, 0);
+    font-size: 155px;
 }
