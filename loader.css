@@ -130,7 +130,7 @@ h1 span {
     color: rgb(255, 0, 0);
     z-index: 100;
     position: absolute;
-    font-size: 200px;
+    font-size: 220px;
     margin-top: -160px;
     transition: 1s;
     animation: color_f 5s linear infinite;
@@ -213,29 +213,4 @@ h1 span {
 .friendship:hover {
     transform: translateX(40px) translateY(20px);
     color: rgb(47, 255, 0);
-}
-
-.cube {
-    position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 12px;
-    color: rgb(89, 255, 0);
-    /* size: 500px; */
-    background-color: #ec0000;
-    /* animation: rotate 3s linear infinite; */
-}
-
-.cube:hover {
-    background-color: #00ec56;
-    color: rgb(224, 217, 217);
-    transition: 1s;
-}
-
-.name {
-    position: relative;
-    font-size: 100px;
-    font-weight: 500;
-    margin-top: -1px;
-    margin-left: 10px;
 }
